@@ -1,1 +1,1 @@
-Learnig abput js like a champ :-)
+Learning about js like a champ :-)
